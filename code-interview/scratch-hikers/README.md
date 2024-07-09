@@ -1,10 +1,10 @@
 ## Hikers Programming Question
 
-The Royal Gorge Bridge in Colorado is one of the sceneic bridges in the United 
+The Royal Gorge Bridge in Colorado is one of the scenic bridges in the United 
 States. Colorado Parks and Wildlife have been tracking the amount of time hikers
 spend on the bridge to better handle traffic flow. 
 
-Write a function that takes in information of all hikers from that day which includes their name, and their time spent on the bridge - that function should returns the most commonly spent amount of time on the bridge in minutes.
+Write a function that takes in information of all hikers from that day which includes their name, and their time spent on the bridge - that function should return the most commonly spent amount of time on the bridge in minutes.
 
 Example Data:
 Name                Time Spent
@@ -16,7 +16,7 @@ Jeff M                  8
 Crouton L               10
 Tin Z                   11
 
-Returns: 10
+Return: 10
 
 ### Corrupted Data
 

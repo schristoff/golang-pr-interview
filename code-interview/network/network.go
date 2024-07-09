@@ -39,5 +39,4 @@ func HttpGetFile(url string, destinationFile *os.File) {
 	if _, err = io.Copy(destinationFile, resp.Body); err != nil {
 		panic(err)
 	}
-
 }
